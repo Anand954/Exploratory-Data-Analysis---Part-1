@@ -1,2 +1,2 @@
-# Exploratory-Data-Analysis---Part-1
-Performing Exploratory Data Analysis - Part 1 of 2
+# Exploratory-Data-Analysis
+Performing Exploratory Data Analysis on customer data.
